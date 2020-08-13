@@ -1,10 +1,11 @@
 package bencode
 
 import (
-	"bencode/token"
 	"errors"
 	"reflect"
 	"strings"
+
+	"github.com/qiaoyongchen/bencode/token"
 )
 
 var tag = "bencode"
