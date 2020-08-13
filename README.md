@@ -25,7 +25,7 @@ Dictionary<{"abced":"abced"},{"abc":123}> => d5:abced5:abced3:abci23ee
 ## 安装
 
 ```
-github.com/qiaoyongchen/bencode
+go get github.com/qiaoyongchen/bencode
 ```
 
 ## 编码
